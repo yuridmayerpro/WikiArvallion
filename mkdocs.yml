@@ -1,0 +1,42 @@
+site_name: Arvallion
+
+theme: 
+  name: 'material'
+  language: pt-br
+  favicon: /images/favicon.ico
+  icon: /images/Logo-Arvallion-1.png
+  logo: /images/Logo-Arvallion-1.png
+
+plugins:
+  - mkdocs-video
+  - awesome-pages
+
+# Configurações adicionais
+nav:
+  - O mundo de Arvallion: index.md
+  - 1. Introdução a Arvallion: 1_Introducao_a_Arvallion.md
+  - 2. Tema e Tom: 2_tema_e_tom.md
+  - 3. Geografia e Ambiente: 3_geografia_e_ambiente.md
+  - 4. História do Mundo: 4_Historia_do_mundo.md
+  - 5. Política, Cultura e Sociedade: 5_politica_cultura_e_sociedade.md
+  - 6. Religião e Filosofia: 6_Religiao_e_filosofia.md
+  - 7. Magia e Tecnologia: 7_Magia_e_Tecnologia.md
+  - 8. Raças e Personagens: 8_Racas_e_Personagens.md
+  - 9. Economia e Comércio: 9_Economia_e_comercio.md
+  - 10. Conflitos: 10_Conflitos.md
+  - 11. Temas e Questões Filosóficas: 11_Temas_e_Questoes_Filosoficas.md
+  - 12. Estilo e Representação Visual: 12_Estilo_e_Representacao_Visual.md
+  - 13. Bestiário: 13_Bestiario.md
+  - 14. Artefatos e Itens Mágicos: 14_Artefatos_e_Itens_Magicos.md
+  - 15. Cronologia: 15_Cronologia.md
+  - 16. Personagens Notáveis: 16_Personagens_Notaveis.md
+  - 17. Glossário: 17_Glossario.md
+  - 18. Referências Culturais e Lendas Internas: 18_Referencias_Culturais_e_Lendas_Internas.md
+
+markdown_extensions:
+  - codehilite
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/custom.css
