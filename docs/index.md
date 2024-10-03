@@ -1,7 +1,7 @@
 # O mundo de Arvallion
 
 <div style="text-align: center;">
-  <img src="..\images\Logo-Arvallion-1.png" alt="Arvallion" 
+  <img src="images/Logo-Arvallion-1.png" alt="Arvallion" 
        style="width: 50%; max-width: 300px; margin-top: 20px; margin-bottom: 20px;">
 </div>
 

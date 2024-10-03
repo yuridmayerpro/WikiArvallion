@@ -1,11 +1,13 @@
 site_name: Arvallion
 
+use_directory_urls: false
+
 theme: 
   name: 'material'
   language: pt-br
-  favicon: /images/favicon.ico
-  icon: /images/Logo-Arvallion-1.png
-  logo: /images/Logo-Arvallion-1.png
+  favicon: ../images/favicon.ico
+  icon: ../images/Logo-Arvallion-1.png
+  logo: ../images/Logo-Arvallion-1.png
 
 plugins:
   - mkdocs-video

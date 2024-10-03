@@ -7,7 +7,7 @@ Arvallion é habitado por uma vasta gama de criaturas e monstros, muitos dos qua
 #### Dracomantes Corrompidos
 
 <figure style="float: left; margin-right: 20px; width: 200px; text-align: center;">
-  <img src="..\images\bestiario\Dracomante_corrompido.webp" alt="Dracomante Corrompido: Um ser consumido pela Mana negra, com escamas quebradiças e fogo sombrio, habitante das profundezas das Montanhas dos Titãs." style="width: 100%;">
+  <img src="images\bestiario\Dracomante_corrompido.webp" alt="Dracomante Corrompido: Um ser consumido pela Mana negra, com escamas quebradiças e fogo sombrio, habitante das profundezas das Montanhas dos Titãs." style="width: 100%;">
   <figcaption><em>Dracomantes Corrompidos</em></figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ Esses Dracomantes habitam as cavernas mais profundas e isoladas nas **Montanhas 
 #### Gigantes de Gelo
 
 <figure style="float: left; margin-right: 20px; width: 200px; text-align: center;">
-  <img src="..\images\bestiario\Gigantes-de-gelo.webp" alt="Gigante de Gelo: Colosso elemental das Montanhas dos Titãs, feito de gelo vivo e com olhos que brilham com o poder da Mana. Sua presença impõe o frio e a força de eras antigas." style="width: 100%;">
+  <img src="images\bestiario\Gigantes-de-gelo.webp" alt="Gigante de Gelo: Colosso elemental das Montanhas dos Titãs, feito de gelo vivo e com olhos que brilham com o poder da Mana. Sua presença impõe o frio e a força de eras antigas." style="width: 100%;">
   <figcaption><em>Gigante de Gelo</em></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Esses gigantes reclusos raramente se aventuram além das alturas geladas de sua 
 #### Serpentes de Fogo das Cavernas
 
 <figure style="float: left; margin-right: 20px; width: 200px; text-align: center;">
-  <img src="..\images\bestiario\Serpentes-de-Fogo-das-Cavernas.webp" alt="Serpentes de Fogo das Cavernas: Criaturas serpentinas com escamas incandescentes como lava, habitam os subterrâneos vulcânicos de Arvallion, irradiando calor e poder elemental." style="width: 100%;">
+  <img src="images\bestiario\Serpentes-de-Fogo-das-Cavernas.webp" alt="Serpentes de Fogo das Cavernas: Criaturas serpentinas com escamas incandescentes como lava, habitam os subterrâneos vulcânicos de Arvallion, irradiando calor e poder elemental." style="width: 100%;">
   <figcaption><em>Serpentes de Fogo das Cavernas</em></figcaption>
 </figure>
 
