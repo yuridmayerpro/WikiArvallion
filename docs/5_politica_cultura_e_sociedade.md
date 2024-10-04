@@ -82,6 +82,8 @@ O **Império de Kaaran** é uma das mais temidas e poderosas nações de Arvalli
 
 Kaaran é uma terra de contrastes extremos: enquanto sua elite vive no luxo e no controle da Mana, suas vastas regiões de deserto são habitadas por nômades e tribos que lutam para sobreviver às condições inóspitas. A magia permeia todas as esferas de sua sociedade, desde a política até as operações militares, fazendo do império uma força militar e mágica devastadora.
 
+A capital do império, **Thyran**, é um símbolo de sua força e opressão. Uma cidade imensa, construída sobre veios de Mana corrompida, Thyran é conhecida por suas imponentes Fortalezas de Mana Negra, que parecem absorver a luz do dia e exalam uma aura de poder sombrio. As ruas de Thyran são vigiadas por autômatos movidos por cristais de Mana, e o coração da cidade é o **Palácio de Ferro**, residência do **Imperador Korath**, onde todas as decisões de conquista e dominação são tomadas.
+Thyran não é apenas o centro político de Kaaran, mas também um bastião de produção mágica. As forjas da cidade são alimentadas pela Mana extraída diretamente dos cristais, e seus exércitos são reforçados por **autômatos mágicos** e **magos guerreiros** treinados na manipulação da energia primordial. A cidade está constantemente envolta em uma leve neblina roxa, resultado da extração e uso intensivo da Mana, o que confere a Thyran uma atmosfera inquietante e quase sobrenatural.
 ---
 
 #### **Regime Autoritário e Magos Guerreiros**
@@ -161,6 +163,11 @@ O **Império de Kaaran** é uma força implacável, cuja sede por poder e domina
 A **Confederação das Ilhas Flutuantes** é uma nação única e enigmática em Arvallion, constituída por uma aliança de magos que residem em ilhas que pairam magicamente acima das águas do **Mar de Sombra**. Suspensas no ar por forças místicas alimentadas pelos poderosos **Cristais de Aetherium**, essas ilhas desafiando as leis naturais tornaram-se um centro de inovação mágica e tecnológica. A confederação é um refúgio de intelecto e experimentação, onde a magia é tanto uma ciência quanto uma arte, e o equilíbrio entre **liberdade e disciplina** é o pilar fundamental de sua sociedade.
 
 Ao contrário das monarquias ou impérios tradicionais de Valdoria, a Confederação das Ilhas Flutuantes não tem um governante central absoluto, mas é liderada por um **Conselho Supremo de Magia**, composto por alguns dos magos mais poderosos e influentes de Arvallion. A aliança entre as várias ilhas é baseada em um pacto de cooperação e respeito mútuo, mas também há tensões internas que refletem os desafios de equilibrar a liberdade mágica e a necessidade de controle para evitar o caos.
+
+**Aerethys**, a capital da Confederação, é uma cidade deslumbrante que flutua acima das nuvens, sendo o centro de pesquisa mágica e alquímica em Arvallion. Suas torres cintilantes são alimentadas por cristais de Mana, e a própria cidade é mantida suspensa por um vasto sistema de encantamentos antigos. Aerethys é o coração intelectual e político das Ilhas Flutuantes, onde conselhos de magos se reúnem para decidir os rumos da confederação, equilibrando a busca pelo conhecimento com a necessidade de manter sua neutralidade no conflito entre Eldoria e Kaaran.
+Os **Salões de Cristal** de Aerethys abrigam os maiores estudiosos e mestres da Mana, que conduzem experimentos arcanos avançados, muitas vezes desafiando os limites da moralidade e do equilíbrio natural. A cidade é também o lar das **Academias de Alquimia**, onde as futuras gerações de magos são treinadas. As goletas voadoras, icônicas das Ilhas Flutuantes, são projetadas e construídas em Aerethys, usando tecnologias que combinam magia e engenharia avançada.
+Aerethys reflete a ambição da confederação de dominar o conhecimento arcano e, ao mesmo tempo, manter a frágil neutralidade que lhes permite sobreviver em um mundo dividido por guerra e disputas pela Mana.
+
 
 ---
 
@@ -246,6 +253,9 @@ Os **Povos Livres de Mirval** são um conjunto de tribos e clãs humanos e espir
 
 Mirval, uma floresta imensa e encantada, não é apenas o lar físico desses povos, mas também sua alma espiritual. A floresta, com suas árvores centenárias, riachos de Mana e criaturas mágicas, é vista como uma entidade viva, com a qual os habitantes mantêm uma relação sagrada. As tribos de Mirval se veem como guardiões desse equilíbrio natural, e sua cultura é baseada no respeito mútuo entre os povos e a preservação da harmonia entre o homem, a magia e a natureza.
 
+**Thalindor**, uma cidade escondida nas profundezas da floresta, é considerada a "capital" espiritual e política de Mirval. Construída entre as árvores gigantescas e os riachos encantados, Thalindor é um exemplo da harmonia entre natureza e civilização. Suas casas e estruturas estão entrelaçadas com a própria floresta, feitas de madeira viva e enfeitadas com runas antigas que protegem e equilibram o fluxo de Mana da região.
+Thalindor é o lar dos **Xamãs Supremos**, líderes espirituais dos Povos Livres de Mirval e dos Silvanos. Esses xamãs, juntamente com os anciãos das tribos, guiam o povo na preservação dos segredos antigos e na manutenção do equilíbrio natural. O **Grande Círculo de Thalindor**, um local sagrado no centro da cidade, é o ponto de encontro para cerimônias e conselhos, onde os líderes das tribos e dos Silvanos se reúnem para tomar decisões sobre o futuro da floresta e seus habitantes.
+A cidade também é conhecida por seus **Guardiões Espirituais**, guerreiros xamânicos treinados tanto na luta quanto na magia da floresta, protegendo Thalindor e os segredos místicos de Mirval das ameaças externas, sejam invasores ou criaturas malignas que tentam corromper a pureza da floresta.
 ---
 
 #### **Harmonia com a Natureza**
@@ -318,6 +328,78 @@ Sua relação com **Eldoria** é relativamente cordial, uma vez que Eldoria resp
 
 Os **Povos Livres de Mirval** representam uma sociedade profundamente conectada à natureza e à magia elemental. Vivendo em harmonia com a floresta que chamam de lar, essas tribos e clãs mantêm uma filosofia de respeito e equilíbrio, protegendo tanto a si mesmos quanto o mundo natural que os rodeia. Com uma estrutura descentralizada, rituais espirituais profundos e uma relação íntima com a Mana, eles se destacam como guardiões da floresta e como um exemplo de coexistência entre o mundo mortal e o espiritual. Apesar de sua neutralidade política, eles permanecem vigilantes contra as forças externas que ameaçam romper o equilíbrio sagrado de Mirval.
 
+
+
+
+
+
+
+### **Cidades Fronteiriças**
+
+As **Cidades Fronteiriças** são uma série de comunidades fortificadas que servem como a primeira linha de defesa do Reino de Eldoria contra as ameaças do norte, especialmente as que surgem das Montanhas dos Titãs e das regiões inexploradas. Localizadas ao norte das **Planícies Douradas**, essas cidades se destacam por sua função militar e por abrigarem uma população diversa, composta por humanos, anões e viajantes de várias partes de Valdoria.
+
+#### **Estrutura Social e Política**
+
+Embora tecnicamente parte de Eldoria, as Cidades Fronteiriças operam com um alto grau de autonomia. Devido à sua localização isolada e à constante necessidade de lidar com ameaças emergentes, as cidades são governadas por um **Conselho de Comandantes**, formado por líderes militares e chefes locais. Esse conselho tem a responsabilidade de decidir questões militares, comerciais e diplomáticas, sendo a força política mais influente na região. A liderança local também mantém contato direto com Eldoria, mas as decisões rápidas e independentes são frequentemente necessárias.
+
+A sociedade nas Cidades Fronteiriças é altamente militarizada, com grande parte de seus cidadãos treinados para combater. Além disso, muitos dos habitantes são artesãos, ferreiros, e mercadores que contribuem para o abastecimento da frente de defesa, fornecendo armamentos, alimentos e itens de uso diário para as patrulhas constantes que guardam as fronteiras.
+
+#### **Fortificações e Defesas**
+
+As Cidades Fronteiriças são conhecidas por suas defesas robustas. Cada cidade é cercada por muralhas altas, muitas delas reforçadas com runas e magia anã, tornando-as fortalezas quase impenetráveis. A cidade de **Dunhark**, que serve como a capital da região, é especialmente bem defendida, com torres de observação e portões encantados que bloqueiam as forças invasoras.
+
+Essas cidades estão sempre em estado de alerta, pois as ameaças do norte — desde incursões de criaturas selvagens das montanhas até ataques das forças de Kaaran — são constantes. Patrulhas de cavaleiros e guerreiros percorrem as fronteiras e trilhas nas montanhas, garantindo que nenhuma incursão ocorra sem resposta imediata. O treinamento militar é uma parte central da vida nas Cidades Fronteiriças, com todos os jovens recebendo instrução em combate e defesa.
+
+#### **Comércio e Diplomacia**
+
+Além de sua importância militar, as Cidades Fronteiriças são pontos comerciais vitais para a região. Devido à sua proximidade com as **Montanhas dos Titãs** e aos recursos abundantes encontrados nas profundezas das montanhas, como minerais raros e cristais de Mana, as cidades se tornaram centros de troca de materiais preciosos. O comércio entre os **Anões do Norte** e as cidades humanas é essencial para ambas as partes, com os anões fornecendo metais raros e artefatos mágicos em troca de alimentos e produtos que não conseguem cultivar ou produzir nas montanhas.
+
+Dunhark, em particular, é conhecida por suas **Feiras Fronteiriças**, onde mercadores de toda Valdoria se reúnem para comercializar suas mercadorias. Além de mercadorias tradicionais, as feiras também são conhecidas por negociações diplomáticas importantes. Delegações de Eldoria, das tribos nômades do norte, e dos Anões do Norte frequentemente utilizam essas feiras como momentos de negociação e aliança.
+
+#### **Relações com os Anões do Norte**
+
+As Cidades Fronteiriças mantêm uma relação próxima e estratégica com os **Anões do Norte**. As montanhas são tanto uma barreira quanto uma fonte de riqueza mineral, e a aliança com os anões é essencial para manter as fronteiras seguras e as rotas comerciais abertas. Os anões frequentemente auxiliam na manutenção das fortificações das cidades e fornecem armas e armaduras rúnicas para as forças defensivas. Em troca, as cidades fronteiriças fornecem alimentos e mercadorias que são difíceis de encontrar nas montanhas.
+
+#### **Cultura e Vida nas Cidades Fronteiriças**
+
+A vida nas Cidades Fronteiriças é marcada por uma mistura de pragmatismo e resiliência. Devido à constante ameaça de invasões, seus habitantes desenvolvem uma mentalidade de vigilância e disciplina. Festivais e celebrações são realizados para reforçar o moral das comunidades, muitas vezes centrados em temas de coragem e resistência.
+
+A cultura local também valoriza profundamente o trabalho em equipe e a proteção da comunidade. Guerreiros e artesãos compartilham um respeito mútuo, e a fronteira é vista não apenas como um local de perigo, mas como um símbolo de sua força e determinação.
+
+
+
+
+
+
+### **Anões do Norte**
+
+Os **Anões do Norte** são uma raça antiga e respeitada de Arvallion, conhecida por sua habilidade incomparável na mineração, forja e utilização de magia rúnica. Eles habitam as profundezas das **Montanhas dos Titãs**, no norte de Valdoria, onde construíram vastas redes de túneis, cidades subterrâneas e forjas que são verdadeiros exemplos de engenharia e arquitetura. Além disso, pequenas comunidades anãs também são encontradas nas proximidades das **Cidades Fronteiriças**, onde mantêm fortes laços comerciais e diplomáticos com outras raças.
+
+#### **Sociedade e Cultura**
+
+A sociedade dos Anões do Norte é profundamente estruturada em clãs, sendo cada clã especializado em uma determinada área, como a mineração, a forja ou o comércio. Os clãs são governados por **Anciãos**, respeitados por sua sabedoria e conhecimento das antigas tradições e segredos da terra. Acima de todos os anciãos, está o **Rei da Montanha**, um líder eleito que detém o maior entendimento da magia rúnica e dos mistérios das Montanhas dos Titãs. 
+
+A cultura anã é fortemente centrada no trabalho, no domínio das artes da forja e no respeito às tradições passadas. Seus ferreiros são considerados mestres sagrados, e suas criações, sejam armas ou artefatos mágicos, são vistas como uma extensão da própria alma dos anões. A magia rúnica desempenha um papel crucial na vida cotidiana, sendo usada para reforçar as defesas das cidades subterrâneas, aumentar o poder das armas e até mesmo proteger a própria terra contra as criaturas e forças caóticas que habitam as profundezas das montanhas.
+
+#### **Cidades Subterrâneas e Defesas**
+
+As cidades anãs são vastas metrópoles subterrâneas, com **Thordrum** sendo a capital e o centro de suas atividades políticas e comerciais. Essas cidades são esculpidas diretamente nas rochas das montanhas, iluminadas por cristais que brilham com uma luz suave, criando um ambiente seguro e protegido das ameaças externas. O trabalho árduo dos anões transformou as cavernas em fortalezas praticamente impenetráveis, com muralhas maciças e portões rúnicos que podem ser selados magicamente em tempos de perigo.
+
+Além disso, os anões desenvolveram um sistema de **armadilhas mágicas** e patrulhas especializadas para proteger seus domínios das perigosas criaturas que habitam as profundezas, como os temidos **Vermes Rochosos** e os **Corrompidos pela Mana**. Esses seres representam uma ameaça constante, e os anões estão em alerta contínuo para garantir a segurança de suas terras.
+
+#### **Relações com Outras Raças**
+
+Os Anões do Norte mantêm uma relação complexa com outras raças, especialmente com os **Dracomantes**, que compartilham as Montanhas dos Titãs. Embora haja tensões ocasionais, especialmente devido à competição por recursos valiosos, como os **Cristais de Mana**, as duas raças reconhecem a importância de cooperar em tempos de crise. Os anões também mantêm laços comerciais com as **Cidades Fronteiriças** e o **Reino de Eldoria**, exportando suas armas e artefatos mágicos, que são altamente valorizados em toda Valdoria.
+
+#### **Magia Rúnica e Forja**
+
+A magia rúnica é a essência da cultura anã. Eles acreditam que as **Runas**, símbolos mágicos gravados em metais e pedras, possuem uma conexão profunda com a terra e o cosmos. As **armas rúnicas** forjadas pelos anões são lendárias, capazes de canalizar a Mana para liberar poderes devastadores no campo de batalha. Além disso, suas **armaduras rúnicas** são virtualmente indestrutíveis, protegendo seus portadores de ataques físicos e mágicos.
+
+A **forja anã** é vista como uma arte sagrada, e cada item produzido é tratado como uma obra-prima. As criações mais poderosas são passadas de geração em geração, tornando-se verdadeiros símbolos de poder e herança dentro dos clãs.
+
+#### **Diplomacia e Comércio**
+
+Embora os Anões do Norte sejam conhecidos por sua natureza reclusa e autossuficiente, eles são também astutos diplomatas e comerciantes. Suas caravanas de mercadores viajam regularmente para Eldoria e outras nações, levando armas, armaduras e artefatos mágicos em troca de alimentos e outros bens. Contudo, sua relação com o **Império de Kaaran** é marcada por cautela, uma vez que o império tenta frequentemente explorar os recursos das montanhas de forma agressiva.
 
 
 
