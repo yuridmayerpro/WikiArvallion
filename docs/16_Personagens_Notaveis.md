@@ -12,8 +12,8 @@ Arvallion é um mundo moldado não apenas pelos grandes eventos históricos e ci
 
 #### Lorde Calen de Eldoria
 
-<figure style="float: left; margin-right: 20px; width: 200px; text-align: center;">
-  <img src="images\personagens\Lorde-Calen-of-Eldoria.webp" alt="Lorde Calen de Eldoria: Agora mais maduro, suas cicatrizes e cabelos grisalhos refletem as batalhas e a sabedoria adquirida ao longo de uma vida dedicada à defesa de Eldoria e seus ideais de honra e luz." style="width: 100%;">
+<figure class="float-left" style="width: 200px;">
+  <img src="images/personagens/Lorde-Calen-of-Eldoria.webp" alt="Lorde Calen de Eldoria: Agora mais maduro, suas cicatrizes e cabelos grisalhos refletem as batalhas e a sabedoria adquirida ao longo de uma vida dedicada à defesa de Eldoria e seus ideais de honra e luz.">
   <figcaption><em>Lorde Calen de Eldoria</em></figcaption>
 </figure>
 

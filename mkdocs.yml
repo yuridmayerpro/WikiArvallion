@@ -34,6 +34,12 @@ nav:
   - 16. Personagens Notáveis: 16_Personagens_Notaveis.md
   - 17. Glossário: 17_Glossario.md
   - 18. Referências Culturais e Lendas Internas: 18_Referencias_Culturais_e_Lendas_Internas.md
+  - 19. Dados Geopoliticos: 19_Informacoes_geograficas.md
+  - 20. Tabela de Rios de Valdoria: 20_Rios.md
+  - 21. Dados militares: 21_Regimentos_Militares.md
+  - 22. Tabela de Províncias: 22_Tabela_Provincias.md
+  - 23. Dados das Capitais dos Estados: 23_Dados_capitais.md
+  - 24. Mapa: 24_Mapa.md
 
 markdown_extensions:
   - codehilite
