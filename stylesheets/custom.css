@@ -6,3 +6,33 @@
 p {
   text-align: justify;
 }
+
+table {
+  width: 100%;
+  table-layout: auto;
+  word-wrap: break-word;
+}
+
+/* Imagens flutuantes à esquerda com responsividade */
+figure.float-left {
+  float: left;
+  margin-right: 20px;
+  max-width: 100%; /* Garante que a figura não ultrapasse a largura da tela */
+  text-align: center;
+}
+
+/* Imagens dentro da figura */
+figure.float-left img {
+  width: auto; /* Mantém o tamanho da imagem, mas permite responsividade */
+  max-width: 100%; /* Ajusta para garantir que a imagem não ultrapasse a largura */
+  height: auto; /* Mantém a proporção da imagem */
+}
+
+/* Para telas menores, desabilita o float e ajusta margens */
+@media (max-width: 768px) {
+  figure.float-left {
+      float: none; /* Remove o float em telas pequenas */
+      margin-right: 0; /* Remove a margem lateral */
+      margin-bottom: 20px; /* Adiciona margem inferior */
+  }
+}
